@@ -257,7 +257,7 @@ En extra kontroll görs för att hitta tekniskt misstänkta bilder, till exempel
 
 Totalt hittades **39 misstänkta bilder**, vilket är väldigt få i förhållande till datasetets storlek. Slutsatsen är därför att dessa bilder troligen inte påverkar resultatet nämnvärt.
 
-T.Ex.
+T.ex.
 
 ![Train: Training_44094885](assets/Imagetext.jpg)
 ![Train: Training_10131352](assets/Blackimage.jpg)
