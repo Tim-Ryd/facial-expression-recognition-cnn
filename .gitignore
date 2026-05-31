@@ -1,0 +1,26 @@
+# Virtuell miljö
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset - lägg inte upp stora datamappar på GitHub
+train/
+test/
+
+# Operativsystem / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Loggar och temporära filer
+*.log
+*.tmp
