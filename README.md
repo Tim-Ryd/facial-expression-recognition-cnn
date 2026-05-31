@@ -247,6 +247,8 @@ predicted_class, confidence, prob_df = predict_single_image(best_model, image_pa
 
 I ett exempel predikterade modellen klassen **angry** med cirka **92 % säkerhet** på en testbild från klassen `angry`.
 
+Bildnamn: PrivateTest_10131363.jpg
+
 ![Prediktion: angry med 92 % säkerhet](assets/prediction-angry.png)
 
 ---
